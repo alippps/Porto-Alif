@@ -639,7 +639,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-  animation: image ease-in infinite;
+  animation: 3s image ease-in infinite;
 }
 
 @keyframes image {
